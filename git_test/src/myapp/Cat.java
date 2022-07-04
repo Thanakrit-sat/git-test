@@ -2,6 +2,6 @@ package myapp;
 
 public class Cat {
     public static void main(String[] args) {
-        System.out.println("Hello FOX");
+        System.out.println("Hello FUBUKI");
     }
 }
