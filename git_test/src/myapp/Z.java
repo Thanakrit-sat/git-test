@@ -2,6 +2,6 @@ package myapp;
 
 public class Z {
     public static void main(String[] args) {
-        System.out.println("Z_Z");
+        System.out.println("Zombie_Zombie");
     }
 }
